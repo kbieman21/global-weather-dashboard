@@ -4,6 +4,7 @@ import sqlite3
 import pandas as pd
 from datetime import datetime
 
+
 # ====================== PATH CONFIGURATION ======================
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
