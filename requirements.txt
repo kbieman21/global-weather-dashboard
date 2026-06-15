@@ -42,9 +42,14 @@
 # wsproto==1.3.2
 
 # I am copying this from python_homework so that my project can be compatible with the same versions of libraries.
-pytest==8.1.1
+#pytest==8.1.1
 pandas==2.2.3
-sqlalchemy==2.0.36
-jupyter_client==8.6.3
-jupyter_core==5.7.2
-nbstripout==0.8.1
+#sqlalchemy==2.0.36
+#jupyter_client==8.6.3
+#jupyter_core==5.7.2
+#nbstripout==0.8.1
+
+# additional libraries for dashboard
+streamlit==1.30.0
+plotly==5.15.0
+#sqlite3
